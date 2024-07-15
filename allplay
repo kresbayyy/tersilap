@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+#EXTINF:-1 group-title="IndiHome" tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png",88 ALLPLAY ENT.
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5f2e7606-4f4c-8524-afa8-a9439519c970)/manifest.mpd
